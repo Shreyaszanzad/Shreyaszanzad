@@ -29,7 +29,6 @@
 </div>
 
 ###
-
 <div align="left">
   <a href="mailto:shreyaszanzad@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -37,7 +36,14 @@
   <a href="https://www.linkedin.com/in/shreyas-zanzad" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
+  <a href="https://codolio.com/profile/B(LIT)Z" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codolio&logo=codeforces&label=&color=FFB800&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codolio logo" />
+  </a>
+  <a href="https://x.com/Shreyas92335636" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="x logo" />
+  </a>
 </div>
+
 
 ###
 
