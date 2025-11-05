@@ -51,8 +51,9 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  I'm a <strong>Python Developer</strong> passionate about building efficient, scalable, and impactful software solutions.<br><br>
-  💡 I focus on clean code, strong fundamentals, and continuous learning.<br>
-  🧠 Currently improving in Data Structures & Algorithms and backend development.<br>
-  📚 Exploring modern frameworks and contributing to open source.<br>
+ 🚀 I’m a passionate Python Developer with a strong interest in backend systems, automation, and scalable application design.<br><br>
+💡 I believe in writing clean, efficient, and maintainable code that solves real-world problems.<br>
+🧠 Currently sharpening my skills in Data Structures & Algorithms, and exploring modern frameworks like Django and FastAPI.<br>
+🤝 I love collaborating on impactful projects, learning from other developers, and continuously improving my craft.<br>
+🌱 Always curious, always building.
 </p>
